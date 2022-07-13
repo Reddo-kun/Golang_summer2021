@@ -80,7 +80,4 @@ var m []Punto // un nuovo tipo può essere composto, come gli altri tipi di GO (
 	m[0].v = make([]int, 10)
 	
 	fmt.Println(m)
-
-
 }
-
